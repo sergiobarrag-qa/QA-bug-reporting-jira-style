@@ -1,0 +1,1 @@
+# QA-bug-reporting-jira-style
