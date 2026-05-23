@@ -15,7 +15,7 @@ El proyecto incluye:
 
 ---
 
-# 🛠 Herramientas utilizadas
+# Herramientas utilizadas
 
 - Manual Testing
 - Jira Style Documentation
@@ -31,7 +31,7 @@ https://www.saucedemo.com/
 
 ---
 
-# 📂 Estructura del proyecto
+# Estructura del proyecto
 
 ├── screenshots  
 ├── bug-reports  
