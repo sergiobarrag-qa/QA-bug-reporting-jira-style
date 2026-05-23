@@ -1,1 +1,48 @@
+# Test Execution Summary — SauceDemo Login Testing
 
+## Objetivo
+Validar el funcionamiento del módulo de autenticación en SauceDemo mediante pruebas funcionales y exploratorias.
+
+---
+
+# Alcance de pruebas
+
+## Funcionalidades probadas
+- Login válido
+- Login inválido
+- Usuario bloqueado
+- Validación de mensajes de error
+- Comportamiento UI
+- Manejo de credenciales incorrectas
+
+---
+
+# Resultado de ejecución
+
+| Tipo de prueba | Resultado |
+|---|---|
+| Login válido | PASS |
+| Login inválido | PASS |
+| Usuario bloqueado | PASS |
+| Validación mensajes | PASS |
+| UI Login | PASS |
+
+---
+
+# Hallazgos principales
+
+| ID | Hallazgo | Severidad |
+|---|---|---|
+| BUG-01 | Mensajes de error poco descriptivos | Media |
+| BUG-02 | Usuario bloqueado sin detalle suficiente | Baja |
+
+---
+
+# Riesgos identificados
+- Experiencia de usuario limitada en mensajes de error.
+- Falta de orientación clara para usuarios bloqueados.
+
+---
+
+# Conclusión
+La funcionalidad de login opera correctamente en escenarios principales. Sin embargo, existen oportunidades de mejora en experiencia de usuario y claridad de mensajes de validación.
