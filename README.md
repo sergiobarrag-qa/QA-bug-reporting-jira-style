@@ -73,7 +73,7 @@ Validación de restricciones de acceso.
 
 ## Login inválido
 
-![Invalid Login](screenshots/invalid-login.png)
+https://github.com/sergiobarrag-qa/QA-bug-reporting-jira-style/blob/c7558d66e879ad49c44b173daa657ce5d2ab1d5a/Estructura-del-proyecto/screenshots/Password%20Incorrecto.png
 
 ---
 
