@@ -79,8 +79,7 @@ https://github.com/sergiobarrag-qa/QA-bug-reporting-jira-style/blob/c7558d66e879
 
 ## Usuario bloqueado
 
-![Locked User](screenshots/locked-user.png)
-
+https://github.com/sergiobarrag-qa/QA-bug-reporting-jira-style/blob/8c20478efd285256c5fc6b404efa84ca427c129d/Estructura-del-proyecto/screenshots/Usuario%20bloqueado.png
 ---
 
 # Habilidades demostradas
