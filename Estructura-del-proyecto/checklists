@@ -1,1 +1,12 @@
+# Login Testing Checklist
 
+| Validación | Estado |
+|---|---|
+| Login exitoso con credenciales válidas | PASS |
+| Mensaje visible con login inválido | PASS |
+| Usuario bloqueado restringe acceso | PASS |
+| Campos visibles correctamente | PASS |
+| Botón Login funcional | PASS |
+| UI estable durante autenticación | PASS |
+| No se presentan errores visuales | PASS |
+| Tiempo de respuesta aceptable | PASS |
