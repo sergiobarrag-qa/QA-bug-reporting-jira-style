@@ -67,7 +67,7 @@ Validación de restricciones de acceso.
 
 ## Login exitoso
 
-![Successful Login](screenshots/successful-login.png)
+https://github.com/sergiobarrag-qa/QA-bug-reporting-jira-style/blob/aea4d65b68baf8f831e60c8f0cb13598e583e892/Estructura-del-proyecto/screenshots/Standar%20User.png
 
 ---
 
